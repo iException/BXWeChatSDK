@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'BXWeChatSDK_Example', :exclusive => true do
+  pod 'BXWeChatSDK', :path => '../'
+end
+
+target 'BXWeChatSDK_Tests', :exclusive => true do
+  pod 'BXWeChatSDK', :path => '../'
+
+  
+end
