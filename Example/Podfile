@@ -8,5 +8,4 @@ end
 target 'BXWeChatSDK_Tests', :exclusive => true do
   pod 'BXWeChatSDK', :path => '../'
 
-  
 end
