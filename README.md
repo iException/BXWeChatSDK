@@ -1,5 +1,9 @@
 # BXWeChatSDK
 
+[![Version](https://img.shields.io/cocoapods/v/BXWeChatSDK.svg?style=flat)](http://cocoapods.org/pods/BXWeChatSDK)
+[![License](https://img.shields.io/cocoapods/l/BXWeChatSDK.svg?style=flat)](http://cocoapods.org/pods/BXWeChatSDK)
+[![Platform](https://img.shields.io/cocoapods/p/BXWeChatSDK.svg?style=flat)](http://cocoapods.org/pods/BXWeChatSDK)
+
 The official WeChat SDK for iOS apps to access WeChat platform. This is a mirror repository maintained by iOS developers from Baixing.
 
 
