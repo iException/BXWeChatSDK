@@ -7,13 +7,13 @@ Pod::Spec.new do |s|
                        Therefore, we create this pod to track the official WeChat iOS SDK.
                        DESC
   s.homepage         = "https://github.com/iException/BXWeChatSDK"
-  s.license          = '©Tencent'
+  s.license          = { :type => 'Custom', :file => 'LICENSE' }
   s.author           = { "Yiming Tang" => "yimingnju@gmail.com" }
   s.source           = { :git => "https://github.com/iException/BXWeChatSDK.git", :tag => "v#{s.version.to_s}" }
   s.platform         = :ios, '7.0'
-  s.requires_arc     = false
+  s.requires_arc     = true
   s.source_files     = 'WeChatSDK/*.{h,m}'
   s.vendored_libraries  = 'WeChatSDK/libWeChatSDK.a'
   s.frameworks = 'SystemConfiguration', 'CoreTelephony'
-  s.libraries = 'sqlite3.0', 'z', 'c++'
+  s.libraries = 'sqlite3', 'z', 'c++'
 end
