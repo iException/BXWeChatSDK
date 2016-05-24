@@ -1,5 +1,5 @@
 PODS:
-  - BXWeChatSDK (1.6.2)
+  - BXWeChatSDK (1.7.0)
 
 DEPENDENCIES:
   - BXWeChatSDK (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  BXWeChatSDK: 365a87cdeab5510a79c1a75836de5d3c57e8bb08
+  BXWeChatSDK: 1dd7ac55028acea1cf68b8c3fae371c53bf658bd
 
 PODFILE CHECKSUM: 902cac4f71a98e6df59e48b1a3f5fc1ecb4340a3
 
