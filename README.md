@@ -1,5 +1,6 @@
 # BXWeChatSDK
 
+[![Build Status](https://travis-ci.org/iException/BXWeChatSDK.svg?branch=master)](https://travis-ci.org/iException/BXWeChatSDK)
 [![Version](https://img.shields.io/cocoapods/v/BXWeChatSDK.svg?style=flat)](http://cocoapods.org/pods/BXWeChatSDK)
 [![License](https://img.shields.io/cocoapods/l/BXWeChatSDK.svg?style=flat)](http://cocoapods.org/pods/BXWeChatSDK)
 [![Platform](https://img.shields.io/cocoapods/p/BXWeChatSDK.svg?style=flat)](http://cocoapods.org/pods/BXWeChatSDK)
