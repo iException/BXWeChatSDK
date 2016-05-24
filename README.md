@@ -9,15 +9,20 @@ The official WeChat SDK for iOS apps to access WeChat platform. This is a mirror
 
 ## Usage
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
-Open `BXWeChatSDK.xcworkspace`. Replace the example target's URL schemes `YOUR_WECAHT_APP_ID` with your WeChat app ID.
-Afterwards, set the same app ID in `BXAppDelegate.m`. Now, let's rock.
+To run the example project:
+
+* Clone the repo, and run `pod install` from the Example directory first.
+* Open `BXWeChatSDK.xcworkspace`.
+* Replace the example target's URL schemes `YOUR_WECAHT_APP_ID` with your WeChat app ID.
+* Afterwards, set the same app ID in `BXAppDelegate.m`.
+
+Now, let's rock 🚀.
 
 
 ## Requirements
 
 * iOS 7 and later
-* Xcode 7.1 and later
+* Xcode 7.2 and later
 
 
 ## Installation
