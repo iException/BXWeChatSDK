@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'BXWeChatSDK'
-  s.version          = '1.7.0'
+  s.version          = '1.7.3'
   s.summary          = 'WeChat SDK for iOS to access WeChat platform.'
   s.description      = 'It is a shame that WeChat does not have an official pod for their iOS SDK. Therefore, we create this pod to track the official WeChat iOS SDK.'
   s.homepage         = 'https://github.com/iException/BXWeChatSDK'
