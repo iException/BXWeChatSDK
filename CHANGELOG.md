@@ -3,6 +3,19 @@
 此变更日志来自微信官方，本项目只对其做了格式处理😀。
 
 
+## Version 1.7.5
+
+1. 提高稳定性
+2. 加快 `+registerApp:` 接口启动速度
+
+
+## Version 1.7.4
+
+1. 更新支持 iOS 启用 ATS(App Transport Security)
+2. 需要在工程中链接 CFNetwork.framework
+3. 在工程配置中的 "Other Linker Flags" 中加入 `-Objc -all_load`
+
+
 ## Version 1.7.3
 
 1. 增强稳定性，适配 iOS10。
