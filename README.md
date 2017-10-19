@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/cocoapods/l/BXWeChatSDK.svg?style=flat)](http://cocoapods.org/pods/BXWeChatSDK)
 [![Platform](https://img.shields.io/cocoapods/p/BXWeChatSDK.svg?style=flat)](http://cocoapods.org/pods/BXWeChatSDK)
 
-**NOTE: The offical WeChatOpenSDK CocoaPod is out! Please try `pod 'WeChatOpenSDK'` in your project. As a result, this project is no longer maintained.**
+**NOTE: The official WeChatOpenSDK CocoaPod is out! Please try `pod 'WeChatOpenSDK'` in your project. As a result, this project is no longer maintained.**
 
 The official WeChat SDK for iOS apps to access WeChat platform. This is a mirror repository maintained by iOS developers from Baixing.
 
